@@ -1,4 +1,4 @@
-# ![StarTrackerino](https://user-images.githubusercontent.com/26225010/63656477-7b589180-c794-11e9-88bf-fb7e854a1b89.png)
+# ![StarTrackerino](https://user-images.githubusercontent.com/26225010/63656675-68938c00-c797-11e9-8354-9e0046274a2b.png)
 A star tracker based on [Arduino](https://www.arduino.cc/).
 
 This repository contains a bare upload of an old project of mine that might undertake a full rework in the future.
